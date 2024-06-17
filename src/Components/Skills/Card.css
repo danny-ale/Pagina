@@ -17,7 +17,7 @@
 }
 
 .textogg{
-    color: #e8d1d0;
+    color: #e8d1d0 !important;
     text-align: center;
 
 }
@@ -39,6 +39,7 @@
   }
 
   .text-lg{
+    color: #e8d1d0 !important;
     text-align: center;
     font-weight:bold;
   }
@@ -71,9 +72,9 @@
   
 
   .Card-back{
-    background-color: #450145;
-    border: 0.3px solid  #850285;
-    color: #e8d1d0;
+    background-color: #450145 !important;
+    border: 0.3px solid  #850285 !important;
+    color: #e8d1d0 !important;
     padding: 10px 20px; 
     border-radius: 5px;
     box-shadow: 3px 3px 10px rgba(187, 0, 193, 0.438); 

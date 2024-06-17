@@ -21,13 +21,13 @@
 }
 
 .Carta{
-    background-color: #450145;
-    border: 0.3px solid  #850285;
+    background-color: #450145 !important;
+    border: 0.3px solid  #850285 !important;
     box-shadow: 3px 3px 10px rgba(187, 0, 193, 0.438); 
 }
 
 .Titulo{
-    color:#ec02ec;
+    color:#ec02ec !important;
 }
 
 .Texto{
