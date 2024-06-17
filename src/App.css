@@ -1,0 +1,30 @@
+.App{
+  background-color: #2d0027;
+  background-size: cover; /* Ajusta la imagen para cubrir todo el contenedor */
+  background-position: center; /* Centra la imagen en el contenedor */
+  height: 200%; /* Ajusta la altura según tus necesidades */
+  width: 100%; /* Ajusta el ancho según tus necesidades */
+}
+
+/* Estilos para pantallas grandes */
+@media (min-width: 1024px) {
+  .Seccion4{
+      margin-top: 380px;
+  }
+}
+
+/* Estilos para pantallas medianas */
+@media (max-width: 1023px) {
+  .Seccion4{
+      margin-top: 450px;
+  }
+}
+
+/* Estilos para pantallas pequeñas */
+@media (max-width: 767px) {
+  .Seccion4{
+      margin-top: 500px;
+  }
+}
+
+  

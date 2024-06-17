@@ -1,0 +1,43 @@
+.invisible-navbar {
+    opacity: 1; 
+
+  }
+
+.logo{
+  width: 10%;
+  height: 10%;
+}
+
+  .IconoMenu{
+    color: #e8d1d0; 
+  }
+  .custom-nav-link {
+    color: #e8d1d0 !important; 
+    font-family: 'Arial', sans-serif; 
+    font-size: 20px; 
+    font-weight:400;
+    padding-bottom: 5px; 
+  }
+  
+  .custom-nav-link::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 1.5px;
+    background: #e8d1d0; /* Cambia el color de la línea */
+    transition: width 0.3s;
+    position:relative;
+    bottom: 0;
+    left: 0;
+  }
+  
+  .custom-nav-link:hover::after {
+    width: 100%;
+  }
+    
+    /* Estilos para pantallas pequeñas */
+    @media (max-width: 1000px) {
+      .custom-nav-link:hover::after {
+        width: 20%;
+      }   
+    }

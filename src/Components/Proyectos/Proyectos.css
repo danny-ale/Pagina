@@ -1,0 +1,63 @@
+.MainProy{
+    color: #e8d1d0;
+    text-align: center;
+    font-family: 'Arial', sans-serif; 
+}
+
+.ContenedorProy{
+    display: flex; 
+    justify-content: center; 
+    padding: 5px;
+}
+.Proyecto{
+    margin: 40px; 
+}
+
+.Proyecto a{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    text-decoration: none;
+}
+
+.Carta{
+    background-color: #450145;
+    border: 0.3px solid  #850285;
+    box-shadow: 3px 3px 10px rgba(187, 0, 193, 0.438); 
+}
+
+.Titulo{
+    color:#ec02ec;
+}
+
+.Texto{
+    color: #e8d1d0;
+}
+
+.MainProy button{
+    background-color: #ec02ec;
+    border: 0.3px solid  #850285;
+    display: flex;
+    align-items: center;
+}
+
+.icono{
+    margin-left: 10px;
+}
+
+.MainProy button:hover{
+    background-color: #c702c7;
+    border: 0.3px solid  #850285;
+}
+
+/* Media query para pantallas pequeñas */
+@media screen and (max-width: 1000px) {
+    .ContenedorProy {
+      flex-direction: column; /* Cambia la dirección de los elementos a columna */
+      align-items: center; /* Centra los elementos verticalmente */
+    }
+  
+    .Proyecto {
+      margin: 5px 0; /* Ajusta el margen verticalmente */
+    }
+}

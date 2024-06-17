@@ -1,0 +1,56 @@
+
+.MainTecno{
+    color: #e8d1d0;
+    text-align: center;
+    max-height: 450px; 
+}
+.ContenedorFondo{
+    position: relative;
+    top:-100px;
+    z-index: 1;
+}
+.ContenedorFondo img {
+    opacity: 0.5;
+    width: 100%; 
+    height: auto; 
+    max-height: 500px; 
+}
+
+.Contenido{
+    padding: 70px;
+
+}
+.iconos{
+    width: 900px;
+}
+.Contenedor1{
+    display: flex;
+    height: 100%;
+    position: relative;
+    z-index: 2;
+    top:-420px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+  /* Estilos para pantallas pequeñas */
+  @media (max-width: 1000px) {
+    .ContenedorFondo{
+        top:-65px;
+    }   
+    .Contenedor1{
+        top:-400px;
+    }
+  }
+
+
+    /* Estilos para pantallas pequeñas */
+    @media (max-width: 600px) {
+        .ContenedorFondo{
+            top:-20px;
+        }   
+        .Contenedor1{
+            top:-220px;
+        }
+      }
