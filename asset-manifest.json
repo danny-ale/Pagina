@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Pagina/static/css/main.a49f6e85.css",
+    "main.js": "/Pagina/static/js/main.6e833106.js",
+    "static/js/453.e9bcbb73.chunk.js": "/Pagina/static/js/453.e9bcbb73.chunk.js",
+    "static/media/VideoJuego.png": "/Pagina/static/media/VideoJuego.6ebe773cb8d1438f6d35.png",
+    "static/media/PowerBi.png": "/Pagina/static/media/PowerBi.48d356938ad43a9dd159.png",
+    "static/media/CV-Actualizado.pdf": "/Pagina/static/media/CV-Actualizado.3a450a19c43fcf482936.pdf",
+    "static/media/Blog.png": "/Pagina/static/media/Blog.ed61fc3d5ebf194c5c56.png",
+    "static/media/Purple decoration.png": "/Pagina/static/media/Purple decoration.5adfcdd7437ff6387c54.png",
+    "static/media/Programming-cuate.png": "/Pagina/static/media/Programming-cuate.1fa71c8538f05647263d.png",
+    "static/media/Logo.png": "/Pagina/static/media/Logo.8ed9035cf94948a8a7f9.png",
+    "static/media/Bases.jpg": "/Pagina/static/media/Bases.d43bf121db7724f2e5bf.jpg",
+    "static/media/VideoGame.jpg": "/Pagina/static/media/VideoGame.c086b701c418e8924784.jpg",
+    "static/media/Code.jpg": "/Pagina/static/media/Code.a7a010d37f18ec5f5ee4.jpg",
+    "static/media/UX.jpg": "/Pagina/static/media/UX.cbd757bd640c0b03eba5.jpg",
+    "index.html": "/Pagina/index.html",
+    "main.a49f6e85.css.map": "/Pagina/static/css/main.a49f6e85.css.map",
+    "main.6e833106.js.map": "/Pagina/static/js/main.6e833106.js.map",
+    "453.e9bcbb73.chunk.js.map": "/Pagina/static/js/453.e9bcbb73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a49f6e85.css",
+    "static/js/main.6e833106.js"
+  ]
+}
